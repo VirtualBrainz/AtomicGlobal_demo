@@ -1,0 +1,51 @@
+hr {width: 100px; border: 2px solid black;}
+
+.hr_white{
+    width: 100px; border: 2px solid white;
+
+}
+
+
+.imagengrid{
+    width: 250px;
+}
+
+.White_Text_01{
+    color: white;
+    font-style: bold;
+}
+
+.btn-primary{
+    border-color: black !important;
+    background-color: cadetblue !important;
+}
+
+.Portada{
+    background: url('../../media/images/Portada/portada.gif');
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center;
+    background-color: black;
+}
+
+.AboutBackground{
+    background: url('../../media/images/Portada/AboutBackground.gif');
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center;
+    background-color: black;
+}
+
+footer{
+    background-color: rgb(14, 26, 61);
+}
+
+footer h3{
+    color: wheat;
+}
+
+/* HTML */
+
+html {
+  scroll-behavior: smooth;
+}
