@@ -21,3 +21,10 @@ Route::get('/', function () {
 Route::get('/Inicio', function () {
     return view('Inicio');
 });
+
+Route::get('/admin', function () {
+    return view('admin');
+});
+
+Route::resource('almacen/categoria','CategoriaController');
+  

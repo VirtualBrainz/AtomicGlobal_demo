@@ -7,7 +7,7 @@ hr {width: 100px; border: 2px solid black;}
 
 
 .imagengrid{
-    width: 250px;
+    width: 200px;
 }
 
 .White_Text_01{
@@ -44,7 +44,7 @@ footer h3{
     color: wheat;
 }
 
-/* HTML */
+/* HTML
 
 html {
   scroll-behavior: smooth;

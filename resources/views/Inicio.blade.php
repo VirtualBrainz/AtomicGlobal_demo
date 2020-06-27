@@ -58,23 +58,43 @@
     </header>
 
     <section class="container" id="audio">
-        <div class="row mb-5" style="background-color: #ffff;">
+        <div class="row mb-5" style="background-color: #ffff;" >
             <div class="col-12 text-center mt-5">
                 <H2>Auditive Experience</H2>
                 <hr>
             </div>
 
             <div class="col-4 text-center mt-4">
+                <h2>ALBUM NAME</h2>
                 <img src="../../media/images/gridinicio/img1.jpg" alt="ImagenAlbums" class="imagengrid">
+                <P>Descripcion del album</p>
             </div>
             <div class="col-4 text-center mt-4">
-                <img src="../../media/images/gridinicio/img2.jpg" alt="ImagenAlbums" class="imagengrid">
+                <h2>ALBUM NAME</h2>
+                <img src="../../media/images/gridinicio/img1.jpg" alt="ImagenAlbums" class="imagengrid">
+                <P>Descripcion del album</p>
             </div>
             <div class="col-4 text-center mt-4">
-                <img src="../../media/images/gridinicio/img3.jpg" alt="ImagenAlbums" class="imagengrid">
+                <h2>ALBUM NAME</h2>
+                <img src="../../media/images/gridinicio/img1.jpg" alt="ImagenAlbums" class="imagengrid">
+                <P>Descripcion del album</p>
             </div>
             <div class="col-4 text-center mt-4">
-                <img src="../../media/images/gridinicio/img4.jpg" alt="ImagenAlbums" class="imagengrid">
+                <h2>ALBUM NAME</h2>
+                <img src="../../media/images/gridinicio/img1.jpg" alt="ImagenAlbums" class="imagengrid">
+                <P>Descripcion del album</p>
+            </div>
+
+            <div class="col-4 text-center mt-4">
+                <h2>ALBUM NAME</h2>
+                <img src="../../media/images/gridinicio/img1.jpg" alt="ImagenAlbums" class="imagengrid">
+                <P>Descripcion del album</p>
+            </div>
+
+            <div class="col-4 text-center mt-4">
+                <h2>ALBUM NAME</h2>
+                <img src="../../media/images/gridinicio/img1.jpg" alt="ImagenAlbums" class="imagengrid">
+                <P>Descripcion del album</p>
             </div>
 
 
